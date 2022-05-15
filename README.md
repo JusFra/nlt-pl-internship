@@ -8,3 +8,6 @@
 
 - [@nlt-pl-internship](https://bitbucket.org/nlteng/nlt-pl-internship/src/master/)
 
+
+### Language:
+Python
